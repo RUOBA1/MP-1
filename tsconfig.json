@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/home", "destination": "/Home/index.html" },
+    { "source": "/education", "destination": "/Education/education.html" }
+  ]
+}
